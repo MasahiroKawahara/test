@@ -1,4 +1,4 @@
->>> from graphillion import GraphSet           #Graphillionのインポート
+>>> from graphillion import GraphSet           #Graphillionのインポーーーーーーーーーーーーーーーーーーーート
 >>> import graphillion.tutorial as tl          #チュートリアルのためのヘルパーメソッド
 >>> universeList = tl.grid(8,8)                #ユニバースとなる格子グラフのリストを作成
 >>> GraphSet.set_universe(universeList)
